@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from termcolor import colored
 
 from random_walk import RandomWalk
 
